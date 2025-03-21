@@ -6,8 +6,3 @@ Its my personal blog! 🗒
 
 ================================
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onchunk&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onchunk&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onchunk&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=onchunk&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=onchunk&theme=solarized_dark)
