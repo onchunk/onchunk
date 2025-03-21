@@ -1,13 +1,11 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ================================
-# Im IT-enthusiast from Pyatigorsk, Russia 🌍  
-# ⚡ Personal blog 
-
+Im IT-enthusiast from Pyatigorsk, Russia 🌍  
+⚡ Personal blog
 <a href="https://www.github.com/black" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/black?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/onchunk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills  
-
 <p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
 <a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>
