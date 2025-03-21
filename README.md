@@ -2,9 +2,17 @@
 ================================
 
 Im IT-enthusiast from Pyatigorsk, Russia 🌍  
-⚡ Personal blog
+Its my personal blog! 🗒
 
-<a href="https://www.github.com/black" target="_blank" rel="noreferrer"><img
+<p align="left"> 
+<a href="https://www.github.com/onchunk" target="_blank" rel="noreferrer"> 
+<picture> 
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+</picture> 
+</a>
+</p> <a href="https://www.github.com/black" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/onchunk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills  
@@ -16,17 +24,6 @@ src="https://img.shields.io/github/followers/onchunk?logo=github&style=for-the-b
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
-
-### Socials  
-<p align="left"> 
-<a href="https://www.github.com/onchunk" target="_blank" rel="noreferrer"> 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-</picture> 
-</a>
 </p>
 
 ================================
