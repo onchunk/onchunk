@@ -1,7 +1,7 @@
-# Hi! My name is Alex  
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================  
-IT enthusiast from Moscow 🌍  
-⚡ Passionate about coding, blockchain, and open-source projects  
+Im IT-enthusiast from Pyatigorsk, Russia 🌍  
+⚡ Personal blog 
 
 <a href="https://www.github.com/black" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/black?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
