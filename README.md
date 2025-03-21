@@ -3,7 +3,8 @@
 
 Im IT-enthusiast from Pyatigorsk, Russia 🌍  
 Its my personal blog! 🗒
-
+𝘐𝘮 𝘐𝘛-𝘦𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵 𝘧𝘳𝘰𝘮 𝘗𝘺𝘢𝘵𝘪𝘨𝘰𝘳𝘴𝘬, 𝘙𝘶𝘴𝘴𝘪𝘢 🌍
+𝘐𝘵𝘴 𝘮𝘺 𝘱𝘦𝘳𝘴𝘰𝘯𝘢𝘭 𝘣𝘭𝘰𝘨! 🗒
 ================================
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onchunk&theme=solarized_dark)
